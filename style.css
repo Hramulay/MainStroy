@@ -185,8 +185,6 @@ a img {
 	color: rgba(255,255,255,0.8);
 }
 
-#menu .current_page_item a {
-}
 
 #menu .last {
 	border-right: none;
@@ -274,10 +272,6 @@ a img {
 		background-repeat: repeat;
 		border-top: 1px solid rgba(0,0,0,.05);
 	}
-	
-	#portfolio
-	{
-	}
 
 	#portfolio .box
 	{
@@ -292,10 +286,6 @@ a img {
 		font-size: 1.2em;
 		font-weight: 400;
 		color: rgba(0,0,0,0.7);
-	}
-
-	#portfolio .title
-	{
 	}
 
 	#portfolio .title h2
@@ -333,7 +323,6 @@ a img {
 	{
 		width: 376px;
 	}
-	
 
 
 	.column1,
@@ -353,15 +342,12 @@ a img {
 		margin-right: 24px;
 	}
 
-	
 	.column4,
     .column8,
     .column12
 	{
 		float: right;
 	}
-
-
 
 	.title
 	{
@@ -386,7 +372,6 @@ a img {
 		color: #6F6F6F;
 	}
 
-
 	.button
 	{
 		display: inline-block;
@@ -401,7 +386,6 @@ a img {
 		font-size: 1em;
 		color: #FFF;
 	}
-	
 
 	.container-galerey {
 		width: 101%;
